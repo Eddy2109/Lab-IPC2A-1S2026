@@ -1,0 +1,15 @@
+G:\ALMACENAMIENTO\Usac\Practicas Finales\2026 Primer Semestre\Ejemplos\Lab-IPC2A-1S2026\Clase 27-01\bin\Debug\net10.0\Clase 27-01.exe
+G:\ALMACENAMIENTO\Usac\Practicas Finales\2026 Primer Semestre\Ejemplos\Lab-IPC2A-1S2026\Clase 27-01\bin\Debug\net10.0\Clase 27-01.deps.json
+G:\ALMACENAMIENTO\Usac\Practicas Finales\2026 Primer Semestre\Ejemplos\Lab-IPC2A-1S2026\Clase 27-01\bin\Debug\net10.0\Clase 27-01.runtimeconfig.json
+G:\ALMACENAMIENTO\Usac\Practicas Finales\2026 Primer Semestre\Ejemplos\Lab-IPC2A-1S2026\Clase 27-01\bin\Debug\net10.0\Clase 27-01.dll
+G:\ALMACENAMIENTO\Usac\Practicas Finales\2026 Primer Semestre\Ejemplos\Lab-IPC2A-1S2026\Clase 27-01\bin\Debug\net10.0\Clase 27-01.pdb
+G:\ALMACENAMIENTO\Usac\Practicas Finales\2026 Primer Semestre\Ejemplos\Lab-IPC2A-1S2026\Clase 27-01\obj\Debug\net10.0\Clase 27-01.GeneratedMSBuildEditorConfig.editorconfig
+G:\ALMACENAMIENTO\Usac\Practicas Finales\2026 Primer Semestre\Ejemplos\Lab-IPC2A-1S2026\Clase 27-01\obj\Debug\net10.0\Clase 27-01.AssemblyInfoInputs.cache
+G:\ALMACENAMIENTO\Usac\Practicas Finales\2026 Primer Semestre\Ejemplos\Lab-IPC2A-1S2026\Clase 27-01\obj\Debug\net10.0\Clase 27-01.AssemblyInfo.cs
+G:\ALMACENAMIENTO\Usac\Practicas Finales\2026 Primer Semestre\Ejemplos\Lab-IPC2A-1S2026\Clase 27-01\obj\Debug\net10.0\Clase 27-01.csproj.CoreCompileInputs.cache
+G:\ALMACENAMIENTO\Usac\Practicas Finales\2026 Primer Semestre\Ejemplos\Lab-IPC2A-1S2026\Clase 27-01\obj\Debug\net10.0\Clase 27-01.sourcelink.json
+G:\ALMACENAMIENTO\Usac\Practicas Finales\2026 Primer Semestre\Ejemplos\Lab-IPC2A-1S2026\Clase 27-01\obj\Debug\net10.0\Clase 27-01.dll
+G:\ALMACENAMIENTO\Usac\Practicas Finales\2026 Primer Semestre\Ejemplos\Lab-IPC2A-1S2026\Clase 27-01\obj\Debug\net10.0\refint\Clase 27-01.dll
+G:\ALMACENAMIENTO\Usac\Practicas Finales\2026 Primer Semestre\Ejemplos\Lab-IPC2A-1S2026\Clase 27-01\obj\Debug\net10.0\Clase 27-01.pdb
+G:\ALMACENAMIENTO\Usac\Practicas Finales\2026 Primer Semestre\Ejemplos\Lab-IPC2A-1S2026\Clase 27-01\obj\Debug\net10.0\Clase 27-01.genruntimeconfig.cache
+G:\ALMACENAMIENTO\Usac\Practicas Finales\2026 Primer Semestre\Ejemplos\Lab-IPC2A-1S2026\Clase 27-01\obj\Debug\net10.0\ref\Clase 27-01.dll
