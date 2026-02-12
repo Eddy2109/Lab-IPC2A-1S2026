@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Inventario>
   <Producto id="101">
-    <id>101</id>
     <Nombre>Monitor 4K</Nombre>
     <Stock>15</Stock>
   </Producto>
