@@ -1,0 +1,2 @@
+Hola, este es un texto de ejemplo.
+Nueva cadena de texto ingresada con AppendAllText
