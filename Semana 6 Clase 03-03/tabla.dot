@@ -1,0 +1,161 @@
+digraph Tablero {
+  
+  node [shape=none, fontname="Arial"];
+  
+  MiMatriz [label=<
+    <table border="2" cellborder="1" cellspacing="0" cellpadding="10">
+      <tr>
+        <td border="0"></td>
+        <td border="0"><b>1</b></td>
+        <td border="0"><b>2</b></td>
+        <td border="0"><b>3</b></td>
+        <td border="0"><b>4</b></td>
+        <td border="0"><b>5</b></td>
+        <td border="0"><b>6</b></td>
+        <td border="0"><b>7</b></td>
+        <td border="0"><b>8</b></td>
+        <td border="0"><b>9</b></td>
+        <td border="0"><b>10</b></td>
+      </tr>
+
+      <tr>
+        <td border="0"><b>1</b></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="#4472C4" width="25" height="25"></td> 
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+      </tr>
+
+      <tr>
+        <td border="0"><b>2</b></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="#4472C4" width="25" height="25"></td> 
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+      </tr>
+
+      <tr>
+        <td border="0"><b>3</b></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="#4472C4" width="25" height="25"></td> 
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+      </tr>
+
+      <tr>
+        <td border="0"><b>4</b></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+      </tr>
+
+      <tr>
+        <td border="0"><b>5</b></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="#4472C4" width="25" height="25"></td> <td bgcolor="#4472C4" width="25" height="25"></td> 
+        <td bgcolor="#4472C4" width="25" height="25"></td> <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="#4472C4" width="25" height="25"></td> <td bgcolor="#4472C4" width="25" height="25"></td> 
+        <td bgcolor="#4472C4" width="25" height="25"></td> <td bgcolor="white" width="25" height="25"></td>
+      </tr>
+
+      <tr>
+        <td border="0"><b>6</b></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+      </tr>
+
+      <tr>
+        <td border="0"><b>7</b></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="#4472C4" width="25" height="25"></td> 
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+      </tr>
+
+      <tr>
+        <td border="0"><b>8</b></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="#4472C4" width="25" height="25"></td> 
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+      </tr>
+
+      <tr>
+        <td border="0"><b>9</b></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="#4472C4" width="25" height="25"></td> 
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+      </tr>
+
+      <tr>
+        <td border="0"><b>10</b></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+        <td bgcolor="white" width="25" height="25"></td>
+      </tr>
+
+    </table>
+  >];
+}
+
+// dot -Tpng tabla.dot -o table.png

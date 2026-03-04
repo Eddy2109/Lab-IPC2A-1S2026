@@ -1,0 +1,11 @@
+digraph ListaDoble {
+  rankdir=LR;
+  node [shape=box, style=filled, fillcolor=lightgray];
+  nodo7880838 [label="Valor: 1"];
+  nodo35342034 [label="Valor: 3"];
+  nodo56793269 [label="Valor: 5"];
+  nodo7880838 -> nodo35342034 [color=blue, label="Sig"];
+  nodo35342034 -> nodo56793269 [color=blue, label="Sig"];
+  nodo35342034 -> nodo7880838 [color=red, style=dashed, label="Ant"];
+  nodo56793269 -> nodo35342034 [color=red, style=dashed, label="Ant"];
+}

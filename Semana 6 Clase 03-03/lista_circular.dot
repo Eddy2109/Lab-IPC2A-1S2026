@@ -1,0 +1,13 @@
+digraph ListaCircular {
+  rankdir=LR;
+  node [shape=box, style=filled, fillcolor=lightgray];
+  nodo1495009 [label="Valor: 10"];
+  nodo19435124 [label="Valor: 20"];
+  nodo51330024 [label="Valor: 30"];
+  nodo1495009 -> nodo19435124 [color=blue, label="Sig"];
+  nodo1495009 -> nodo51330024 [color=red, style=dashed, label="Ant"];
+  nodo19435124 -> nodo51330024 [color=blue, label="Sig"];
+  nodo19435124 -> nodo1495009 [color=red, style=dashed, label="Ant"];
+  nodo51330024 -> nodo1495009 [color=blue, label="Sig"];
+  nodo51330024 -> nodo19435124 [color=red, style=dashed, label="Ant"];
+}
