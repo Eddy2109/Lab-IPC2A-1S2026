@@ -1,0 +1,20 @@
+@model Clase1703.Models.ListaEnlazada
+
+<h2>Lista Enlazada</h2>
+
+<form method="post" action="/Lista/Insertar">
+    <input name="valor" placeholder="Ingrese valor"/>
+    <button type="submit">Insertar</button>
+</form>
+
+<ul>
+@{
+    var actual = Model.Cabeza;
+
+    while(actual != null)
+    {
+        <li>@actual.Valor</li>
+        actual = actual.Siguiente;
+    }
+}
+</ul>
