@@ -1,0 +1,26 @@
+@model Clase2403.Models.Lista
+
+<h2>Lista de Drones</h2>
+
+<!-- en lugar de un form ustedes deben jalar los datos de los archivos XML -->
+
+<form method="post" action="/Lista/Agregar">
+    <input name="nombre" placeholder="Ingrese nombre del dron" />
+    <input name="alturaMax" placeholder="Ingrese altura máxima del dron" />
+    <button type="submit">Insertar</button>
+</form>
+
+
+<h3>Lista de Drones</h3>
+
+<ul>
+    @{
+        // GetCabeza y reccorer lista
+        var actual = Model.GetCabeza();
+        while (actual != null)
+        {
+            <li>@actual.Nombre - @actual.alturaMaxima</li>
+            actual = actual.Siguiente;
+        }
+    }
+</ul>
